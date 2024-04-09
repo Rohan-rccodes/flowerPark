@@ -12,4 +12,4 @@ https://rohan-rccodes.github.io/flowerPark/
 <b>Here Preview of the Template : </b>
 <br>
 <br>
-<img src="https://github.com/Rohan-rccodes/P1-Neon-buttons/blob/main/img/Neon-Template.png" alt="Neon Template" width="700">
+<img src="https://github.com/Rohan-rccodes/flowerPark/blob/main/img/FlowerPark-Template.png" alt="Neon Template" width="700">
